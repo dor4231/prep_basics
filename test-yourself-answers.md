@@ -62,10 +62,11 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area.
+Start with IRC channels, Slack channels, subreddits, and various meetup groups in your specific area. 
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Dor Bar](https://github.com/dor4231/)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -284,8 +285,9 @@ The "Superuser" is a user of a computer system with special privileges needed to
 Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE. It is recommended to take a Cheat Sheet for vim and try out to write some code while using Vim unique features.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+*Contributed by [Dor Bar](https://github.com/dor4231/)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -613,6 +615,10 @@ The interactive shell where you can enter commands that will be run by your oper
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
+
+It's the best if not the only way to creat programs in a big team without messing everithing up.
+
+*Contributed by [Dor Bar](https://github.com/dor4231/)*
 
 #### Git
 
